@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JEFRINsergeo
+- 👀 I’m interested in Research and development 
+- 🌱 I’m currently developing my problem solving skills
+- 💞️ I’m looking for tech based internship 
+- 📫 To reach me sergeojefrin@gmail.com
