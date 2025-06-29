@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JEFRINsergeo
-- 👀 I’m interested in Research and development 
-- 🌱 I’m currently developing my problem solving skills
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently developing my skills
 - 💞️ I’m looking for tech based internship 
 - 📫 To reach me sergeojefrin@gmail.com
+- 😁 My Portfolio https://jefrinsergeo.github.io/Portfolio/
